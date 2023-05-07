@@ -1,6 +1,15 @@
 # belly-button-challenge
 Challenge 14
 
+# Files
+- Dashboard host
+
+  [https://violettaantonova.github.io/belly-button-challenge/](https://violettaantonova.github.io/belly-button-challenge/)
+- Code files:
+  - index.html - [index.html](index.html)
+  - dashboard code - [static/js/app.js](static/js/app.js)
+  - bonus exercise code - [static/js/bonus.js](static/js/bonus.js)
+
 # Instructions
 
 Complete the following steps:
